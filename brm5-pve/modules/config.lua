@@ -17,7 +17,7 @@ Config.CONFIG_FILE = "brm5_pve_config.json"
 -- TOGGLES (State)
 Config.highlightEnabled = false  -- Visibility markers
 Config.sizingEnabled = false     -- Target sizing
-Config.showTargetBox = false     -- Shows target bounds
+Config.showTargetBox = true     -- Shows target bounds
 Config.fullBrightEnabled = false -- Removes shadows/darkness
 Config.guiVisible = true         -- Menu visibility
 Config.isUnloaded = false        -- To stop the script
